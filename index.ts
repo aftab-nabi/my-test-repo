@@ -1,4 +1,4 @@
-let greet = "HellO";
+let greet = "Hello";
 
 let userName = "Aftab Nabi"
 
